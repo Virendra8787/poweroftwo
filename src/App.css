@@ -1,0 +1,13 @@
+@media screen and (max-width: 500px) {
+    .main-wrapper{
+      font-size: 10px;
+  
+    }
+  
+    .instruction{
+      font-size: 1.5rem;
+    }
+  
+  
+  
+  }
